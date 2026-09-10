@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="830" height="250" viewBox="0 0 830 250">
+  <foreignObject width="100%" height="100%">
+    <xhtml:div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:rgba(108,99,255,0.08);border:2px solid #6c63ff;border-radius:16px;padding:26px 30px;color:#e0e0e0;box-sizing:border-box;height:100%;">
+      <div style="font-size:15px;font-weight:700;color:#8f8bff;letter-spacing:.5px;text-transform:uppercase;margin-bottom:12px;">💻 Sobre mí</div>
+      <ul style="font-size:17px;line-height:2.2;margin:0;padding-left:22px;color:#c9c9e8;">
+        <li>🔭 Actualmente trabajando en proyectos personales</li>
+        <li>🌱 Aprendiendo nuevas tecnologías cada día</li>
+        <li>⚡ Me apasiona transformar ideas en código</li>
+        <li>🎯 Enfocado en desarrollo web y soluciones digitales</li>
+      </ul>
+    </xhtml:div>
+  </foreignObject>
+</svg>

@@ -6,14 +6,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-## 👨‍💻 Sobre mí
-
-- 🔭 Actualmente trabajando en proyectos personales
-- 🌱 Aprendiendo nuevas tecnologías cada día
-- ⚡ Me apasiona transformar ideas en código
-- 🎯 Enfocado en desarrollo web y soluciones digitales
-
----
+![Sobre mí](sobre-mi.svg)
 
 ## 🛠️ Tecnologías
 
