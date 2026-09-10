@@ -1,7 +1,7 @@
 # Hola, soy **Agustin Carbajal** 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=700&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Amante+del+c%C3%B3digo+y+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=700&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+y+Analista;Amante+del+c%C3%B3digo+y+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </p>
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
