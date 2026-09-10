@@ -1,4 +1,4 @@
-# Hola, soy **agust** 👋
+# Hola, soy **Agustin Carbajal** 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=700&color=6C63FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Amante+del+c%C3%B3digo+y+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
